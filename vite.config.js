@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'https://github.com/tarunkumar1504/gitgrade-repo-project',
+  base: '/https://github.com/tarunkumar1504/gitgrade-repo-project/',
   plugins: [react(),
     tailwindcss(),
   ],
